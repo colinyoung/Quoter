@@ -1,4 +1,9 @@
+Use the following endpoints for twilio:
+http://_your app_/text.php <== SMS endpoint
+http://_your app_/fail.php <== Fallback endpoint
+
 Warning:
+
 * uses the dorky PhpObjectGenerator framework, primarily because I was racing myself and wanted it to be fast;
-* requires a twilio account; point your url to <your app>/text.php
+* requires a twilio account; point your url to _your app_/text.php
 * isn't perfect.
