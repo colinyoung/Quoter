@@ -6,4 +6,4 @@ Warning:
 
 * uses the dorky PhpObjectGenerator framework, primarily because I was racing myself and wanted it to be fast;
 * requires a twilio account; point your url to _your app_/text.php
-* isn't perfect.
+* is perfect.
